@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#main{
+	/*width: 700px;*/
+	border: 1px solid green;
+	/*overflow: hidden;*/
+}
+ 
+.box{
+	/*width: 210px;*/
+	padding: 10px;
+	float: left;
+}
